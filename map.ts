@@ -234,6 +234,7 @@ export const Icons = {
   "stopwatch": require(base + "stopwatch").default,
   "store": require(base + "store").default,
   "subway": require(base + "subway").default,
+  "sun": require(base + "sun").default,
   "surface": require(base + "surface").default,
   "swap-horizontal": require(base + "swap-horizontal").default,
   "swap-vertical": require(base + "swap-vertical").default,
