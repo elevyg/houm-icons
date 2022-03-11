@@ -1,6 +1,6 @@
 {
   "name": "houm-icons",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "set of houm icons for react and react native",
   "main": "index.tsx",
   "author": "Eyal Levy",
