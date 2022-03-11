@@ -1,3 +1,7 @@
-# Proof of concept for Houm icons for react nate
+#  Houm icons for react native
+
+To optimize and create Icon components from svg, run:
+
+`npm run optimize-icons`
 
 
